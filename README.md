@@ -50,7 +50,7 @@ cd django_bk
 
 2. Install the following packages
 ``` bash
-pip install django djangorestframework django-cors-headers openai networkx pipreqs pygithub pylint
+pip install django django rest framework django-cors-headers openai networkx pipreqs pygithub pylint
 ```
 3. Change the directory to django_test:
 ``` bash
