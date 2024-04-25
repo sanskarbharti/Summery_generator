@@ -1,5 +1,5 @@
 # First  Methology
-## You Can Also Run the Jupyter Notebook to Summerize the Software Artifact Issues from the Point of View of a dweveloper
+## You Can Run the Jupyter Notebook to Summerize the Software Artifact Issues from the Point of View of a dweveloper
  It will first Download the List of the links of all the issues of the the link Provided bY THE USER 
  then 
  
@@ -13,12 +13,11 @@ This Describes what the indeuvidal Title Says in the Similar way what is the key
 We then Merge all the files and will summerize the entire Document and we also append the entire summery of the Document to new_Readme.md file
 
 
-While Handeling the Text Summerization Part
+## While Handeling the Text Summerization Part
 
-->As Hugging Facettransformers Was unable to handle the verylarge files of data then to solve thet issue we divide the the text files inti chunks of smaller size about 1000 tokens each then we summerize individual segment and then concitenate hte final Result
+## ->As Hugging Facettransformers Was unable to handle the verylarge files of data then to solve thet issue we divide the the text files inti chunks of smaller size about 1000 tokens each then we summerize individual segment and then concitenate hte final Result
 
--> Also Experomented with the vector word Embedding method and then summerizing the text 
-The Accuracy (Summerizing Capeblity) of the Model is Resinabely low as we need the mode and the Avelabelity the Dataset to train the model is Resinabely low so this Did’t came out to be veru grate idea
+## -> Also Experomented with the vector word Embedding method and then summerizing the text The Accuracy (Summerizing Capeblity) of the Model is Resinabely low as we need the mode and the Avelabelity the Dataset to train the  model is Resinabely low so this Did’t came out to be veru grate idea
 
 
 
